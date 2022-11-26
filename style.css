@@ -125,6 +125,10 @@ h3 {
     .sait {
         margin-left: 210px;  
     }  
+    .photoo {
+        margin-left: 195px;
+        margin-top: 20px; 
+    }
 }
 
 /* Medium: 768px - 991px */
@@ -150,6 +154,10 @@ h3 {
     }
     .sait {
         margin-left: 60px;
+    }
+    .photoo {
+        margin-left: 40px;
+        margin-top: 20px; 
     }
 }
 
@@ -184,5 +192,8 @@ h3 {
     .sait {
         margin-left: 60px;
      }
-  
+     .photoo {
+        margin-left: 40px;
+        margin-top: 20px; 
+    } 
 }

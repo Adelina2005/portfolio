@@ -52,6 +52,8 @@ ul, li {
 
 .header {
 	background: url(header-bg.jpg) no-repeat center top / cover;
+	width: 1470px;
+	height: 900px;
 	padding-top: 57px;
 	color: #fff;
 	padding-bottom: 322px
