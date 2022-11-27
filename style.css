@@ -101,6 +101,11 @@ h3 {
     border-radius: 50px;
 }
 
+.osnova {
+    height: 572px;
+    width: 992px;
+}
+
 /* Large: 992px - 1199px */
 @media (max-width: 1199px) {
     h1 {
