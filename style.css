@@ -174,7 +174,7 @@ h3 {
 /* Extra small: 0px (320px) - 575px */
 @media (max-width: 575px) {
     .osnova {
-        margin: 0 15px;
+        max-width: 575px;
     }
 
     h1 {
