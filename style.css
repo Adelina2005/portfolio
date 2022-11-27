@@ -101,11 +101,6 @@ h3 {
     border-radius: 50px;
 }
 
-.container {
-    max-width: 1110px;
-    margin: 0 auto;
-}
-
 /* Large: 992px - 1199px */
 @media (max-width: 1199px) {
     h1 {
@@ -201,7 +196,4 @@ h3 {
         margin-left: 40px;
         margin-top: 20px; 
     } 
-    .container {
-        padding: 0 15px;
-    }
 }
