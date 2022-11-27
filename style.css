@@ -174,25 +174,40 @@ h3 {
 /* Extra small: 0px (320px) - 575px */
 @media (max-width: 575px) {
     h1 {
-        margin-left: 130px;
+        margin-top: 30px;
+        margin-left: 50px;
+        font-size: 40px;
     }
     h3 {
         display: flex;
-        margin-left: 140px;
-        font-size: 35px;
+        margin-left: 57px;
+        font-size: 15px;
     }
+
+    .btn {
+       margin-left: -50px;
+       padding: 10px 0;
+       margin-top: 15px;
+       width: 120px;
+       font-size: 15px;
+    }
+
     .button {
         margin-left: 100px;
         display: block;
         flex-direction: column;
     }
     .name {
-        margin-top: 140px;
-        margin-left: 110px;
-        }
+        margin-top: 170px;
+        margin-left: 50px;
+        font-size: 70px;
+    }
     .photo {
         margin-left: 40px;
         margin-top: 20px;
+        width: 280px;
+        height: 180px;
+        border-radius: 30px;
     }
     .sait {
         margin-left: 60px;
