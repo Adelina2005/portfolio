@@ -101,74 +101,127 @@ h3 {
     border-radius: 50px;
 }
 
-.osnova {
-    height: px;
-    width: px;
-}
-
 /* Large: 992px - 1199px */
 @media (max-width: 1199px) {
     h1 {
-        margin-left: 250px;
+        margin-left: 230px;
         font-size: 100px;
     }
     h3 {
-        margin-left: 270px;
+        margin-left: 240px;
         font-size: 40px;
     }
     .button {
-        margin-left: 250px;
+        margin-left: 210px;
     }
+
+    .btn {
+        font-size: 25px;
+    }
+
     .name {
-        margin-top: 140px;
-        margin-left: 260px;
+        margin-top: 400px;
+        margin-left: 230px;
     }
     .photo {
-        margin-left: 195px;
+        margin-left: 160px;
         margin-top: 20px;
     }
     .sait {
-        margin-left: 210px;  
+        padding: 15px 0;
+        font-size: 25px;
+        margin-left: 180px;  
     }  
     .photoo {
-        margin-left: 195px;
-        margin-top: 20px; 
+        margin-left: 160px;
+        margin-top: 40px; 
     }
 }
 
 /* Medium: 768px - 991px */
 @media (max-width: 991px) {
     h1 {
-       margin-left: 200px;
-       font-size: 100px;
+       margin-left: 190px;
+       font-size: 80px;
     }
     h3 {
        margin-left: 200px;
-       font-size: 35px;
+       font-size: 25px;
     }
     .button {
        margin-left: 170px;
     }
+    .btn {
+       font-size: 25px;
+       margin-left: 30px;
+       padding: 10px 0;
+       margin-top: 30px;
+       width: 180px;
+    }
     .name {
-       margin-top: 140px;
+       margin-top: 370px;
        margin-left: 110px;
     }
     .photo {
-       margin-left: 40px;
+       margin-left: 110px;
        margin-top: 20px;
+       width: 560px;
+       height: 350px;
+       border-radius: 30px;
     }
     .sait {
-        margin-left: 60px;
+        margin-left: 110px;
     }
     .photoo {
-        margin-left: 40px;
-        margin-top: 20px; 
+       margin-left: 110px;
+       margin-top: 40px;
+       width: 560px;
+       height: 350px;
+       border-radius: 30px;
     }
 }
 
 /* Small: 576px - 767px */
 @media (max-width: 767px) {
-    
+     h1 {
+        margin-left: 170px;
+        font-size: 60px;
+     }
+     h3 {
+        margin-left: 180px;
+        font-size: 20px;
+     }
+     .button {
+        margin-left: 150px;
+     }
+     .btn {
+        font-size: 25px;
+        margin-left: 30px;
+        padding: 10px 0;
+        margin-top: 30px;
+        width: 180px;
+     }
+     .name {
+        margin-top: 370px;
+        margin-left: 110px;
+     }
+     .photo {
+        margin-left: 110px;
+        margin-top: 20px;
+        width: 560px;
+        height: 350px;
+        border-radius: 30px;
+     }
+     .sait {
+         margin-left: 110px;
+     }
+     .photoo {
+        margin-left: 110px;
+        margin-top: 40px;
+        width: 560px;
+        height: 350px;
+        border-radius: 30px;
+     }
 }
 
 /* Extra small: 0px (320px) - 575px */
