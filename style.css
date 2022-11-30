@@ -184,15 +184,15 @@ h3 {
 /* Small: 576px - 767px */
 @media (max-width: 767px) {
      h1 {
-        margin-left: 170px;
+        margin-left: 120px;
         font-size: 60px;
      }
      h3 {
-        margin-left: 180px;
+        margin-left: 130px;
         font-size: 20px;
      }
      .button {
-        margin-left: 160px;
+        margin-left: 110px;
      }
      .btn {
         font-size: 18px;
@@ -202,8 +202,9 @@ h3 {
         width: 150px;
      }
      .name {
-        margin-top: 370px;
-        margin-left: 110px;
+        font-size: 120px;
+        margin-top: 300px;
+        margin-left: 100px;
      }
      .photo {
         margin-left: 110px;
