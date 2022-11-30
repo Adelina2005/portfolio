@@ -89,6 +89,20 @@ h3 {
     transition: all 0.5s ease;
 }
 
+.one_sait {
+    color: white;
+    text-align: center;
+    margin-left: -300px;
+    margin-top: 20px;
+}
+
+.two_sait {
+    color: white;
+    text-align: center;
+    margin-left: -360px;
+    margin-top: 20px;
+}
+
 .sait:hover {
     background: rgb(184, 184, 184);
 }
