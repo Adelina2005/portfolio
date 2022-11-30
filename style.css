@@ -202,25 +202,29 @@ h3 {
         width: 150px;
      }
      .name {
-        font-size: 120px;
+        font-size: 100px;
         margin-top: 300px;
-        margin-left: 100px;
+        margin-left: 110px;
      }
      .photo {
         margin-left: 110px;
         margin-top: 20px;
-        width: 560px;
-        height: 350px;
+        width: 380px;
+        height: 250px;
         border-radius: 30px;
      }
      .sait {
-         margin-left: 110px;
+         margin-left: 120px;
+         padding: 9px 0;
+         margin-top: 5px;
+         width: 150px;
+         font-size: 18px;
      }
      .photoo {
         margin-left: 110px;
         margin-top: 40px;
-        width: 560px;
-        height: 350px;
+        width: 380px;
+        height: 250px;
         border-radius: 30px;
      }
 }
