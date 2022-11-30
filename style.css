@@ -135,7 +135,7 @@ h3 {
 
     .name {
         margin-top: 400px;
-        margin-left: 230px;
+        margin-left: 170px;
     }
     .photo {
         margin-left: 160px;
@@ -149,6 +149,21 @@ h3 {
     .photoo {
         margin-left: 160px;
         margin-top: 40px; 
+    }
+    .one_sait {
+        color: white;
+        text-align: center;
+        margin-left: -300px;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    
+    .two_sait {
+        color: white;
+        text-align: center;
+        margin-left: -420px;
+        margin-top: 20px;
+        font-size: 20px;
     }
 }
 
@@ -174,7 +189,7 @@ h3 {
     }
     .name {
        margin-top: 370px;
-       margin-left: 110px;
+       margin-left: 70px;
     }
     .photo {
        margin-left: 110px;
@@ -193,6 +208,19 @@ h3 {
        height: 350px;
        border-radius: 30px;
     }
+    .one_sait {
+        color: white;
+        text-align: center;
+        margin-left: -190px;
+        margin-top: 20px;
+    }
+    .two_sait {
+        color: white;
+        text-align: center;
+        margin-left: -300px;
+        margin-top: 20px;
+    }
+
 }
 
 /* Small: 576px - 767px */
@@ -241,6 +269,21 @@ h3 {
         height: 250px;
         border-radius: 30px;
      }
+     .one_sait {
+        color: white;
+        text-align: center;
+        margin-left: -60px;
+        margin-top: 15px;
+        font-size: 15px;
+    }
+    
+    .two_sait {
+        color: white;
+        text-align: center;
+        margin-left: -150px;
+        margin-top: 10px;
+        font-size: 15px;
+    }
 }
 
 /* Extra small: 0px (320px) - 575px */
@@ -300,4 +343,19 @@ h3 {
         height: 160px;
         border-radius: 30px; 
     } 
+    .one_sait {
+        color: white;
+        text-align: center;
+        margin-left: -60px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
+    
+    .two_sait {
+        color: white;
+        text-align: center;
+        margin-left: -110px;
+        margin-top: 10px;
+        font-size: 10px;
+    }
 }
