@@ -62,6 +62,12 @@ h3 {
     color: rgb(227, 227, 227);
 }
 
+.name-text {
+    display: flex;
+    gap: 350px;
+    align-items: center;
+}
+
 .photo {
     width: 700px;
     height: 400px;
@@ -90,17 +96,19 @@ h3 {
 }
 
 .one_sait {
-    color: white;
+    color: rgb(72, 71, 71);
     text-align: center;
     margin-left: -300px;
     margin-top: 20px;
+    font-size: 20px;
 }
 
 .two_sait {
-    color: white;
+    color: rgb(72, 71, 71);
     text-align: center;
-    margin-left: -360px;
+    margin-left: -300px;
     margin-top: 20px;
+    font-size: 20px;
 }
 
 .sait:hover {
