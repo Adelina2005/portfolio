@@ -122,6 +122,17 @@ h3 {
     margin-left: 430px;
     border-radius: 50px;
 }
+.contacts {
+    margin-top: 200px;
+    font-size: 180px;
+    margin-left: 440px;
+    color: rgb(227, 227, 227);
+}
+.telegram{
+    color: white;
+    font-size: 50px;
+    margin-left: 450px;
+}
 
 /* Large: 992px - 1199px */
 @media (max-width: 1199px) {
@@ -175,6 +186,10 @@ h3 {
         font-size: 25px;
         padding-right: 140px;
         padding-left: 20px;
+    }
+    .contacts {
+        margin-top: 400px;
+        margin-left: 170px;
     }
 }
 
