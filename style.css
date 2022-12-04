@@ -145,12 +145,14 @@ h3 {
         margin-top: 400px;
         margin-left: 170px;
     }
+    .name-text{
+        gap: 0px;
+    }
     .photo {
         margin-left: 160px;
         margin-top: 20px;
     }
     .sait {
-        padding: 15px 0;
         font-size: 25px;
         margin-left: 180px;  
     }  
@@ -159,19 +161,20 @@ h3 {
         margin-top: 40px; 
     }
     .one_sait {
-        color: white;
+        color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: -470px;
-        margin-top: 20px;
-        font-size: 20px;
+        margin-left: -3px;
+        font-size: 25px;
+        padding-right: 100px;
+        padding-left: 15px;
     }
-    
     .two_sait {
-        color: white;
+        color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: -420px;
-        margin-top: 20px;
-        font-size: 20px;
+        margin-left: 10px;
+        font-size: 25px;
+        padding-right: 140px;
+        padding-left: 20px;
     }
 }
 
@@ -196,8 +199,11 @@ h3 {
        width: 180px;
     }
     .name {
-       margin-top: 370px;
+       margin-top: 400px;
        margin-left: 70px;
+    }
+    .name-text{
+        gap: 0px;
     }
     .photo {
        margin-left: 110px;
@@ -208,6 +214,8 @@ h3 {
     }
     .sait {
         margin-left: 110px;
+        width: 160px;
+        font-size: 20px;
     }
     .photoo {
        margin-left: 110px;
@@ -217,18 +225,20 @@ h3 {
        border-radius: 30px;
     }
     .one_sait {
-        color: white;
+        color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: -190px;
-        margin-top: 20px;
+        margin-left: -3px;
+        font-size: 20px;
+        padding-right: 100px;
+        padding-left: 15px;
     }
     .two_sait {
-        color: white;
+        color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: -300px;
-        margin-top: 20px;
+        margin-left: 10px;
+        font-size: 20px;
+        padding-right: 100px;
     }
-
 }
 
 /* Small: 576px - 767px */
@@ -256,6 +266,9 @@ h3 {
         margin-top: 300px;
         margin-left: 110px;
      }
+     .name-text{
+        gap: 0px;
+    }
      .photo {
         margin-left: 110px;
         margin-top: 20px;
@@ -267,7 +280,7 @@ h3 {
          margin-left: 120px;
          padding: 9px 0;
          margin-top: 5px;
-         width: 150px;
+         width: 160px;
          font-size: 18px;
      }
      .photoo {
@@ -278,19 +291,20 @@ h3 {
         border-radius: 30px;
      }
      .one_sait {
-        color: white;
+        color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: -60px;
-        margin-top: 15px;
+        margin-left: 3px;
         font-size: 15px;
+        padding-right: 80px;
+        padding-left: 15px;
     }
-    
     .two_sait {
-        color: white;
+        color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: -150px;
-        margin-top: 10px;
+        margin-left: 3px;
         font-size: 15px;
+        padding-right: 80px;
+        padding-left: 15px;
     }
 }
 
@@ -330,6 +344,9 @@ h3 {
         margin-left: 30px;
         font-size: 70px;
     }
+    .name-text{
+        gap: 0px;
+    }
     .photo {
         margin-left: 30px;
         margin-top: 20px;
@@ -338,10 +355,8 @@ h3 {
         border-radius: 30px;
     }
     .sait {
-        margin-left: 40px;
+        margin-left: 30px;
         padding: 10px 0;
-        margin-top: 5px;
-        width: 100px;
         font-size: 10px;
      }
      .photoo {
@@ -352,18 +367,19 @@ h3 {
         border-radius: 30px; 
     } 
     .one_sait {
-        color: white;
+        color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: -60px;
-        margin-top: 10px;
-        font-size: 10px;
+        margin-left: -3px;
+        font-size: 13px;
+        padding-right: 28px;
+        padding-left: 10px;
     }
-    
     .two_sait {
-        color: white;
+        color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: -110px;
-        margin-top: 10px;
-        font-size: 10px;
+        margin-left: -2px;
+        font-size: 13px;
+        padding-right: 28px;
+        padding-left: 10px;
     }
 }
