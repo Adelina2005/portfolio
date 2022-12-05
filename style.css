@@ -137,15 +137,15 @@ h3 {
 /* Large: 992px - 1199px */
 @media (max-width: 1199px) {
     h1 {
-        margin-left: 230px;
+        margin-left: 170px;
         font-size: 100px;
     }
     h3 {
-        margin-left: 240px;
+        margin-left: 170px;
         font-size: 40px;
     }
     .button {
-        margin-left: 210px;
+        margin-left: 140px;
     }
 
     .btn {
@@ -153,7 +153,7 @@ h3 {
     }
 
     .name {
-        margin-top: 400px;
+        margin-top: 450px;
         margin-left: 170px;
     }
     .name-text{
@@ -199,15 +199,15 @@ h3 {
 /* Medium: 768px - 991px */
 @media (max-width: 991px) {
     h1 {
-       margin-left: 190px;
+       margin-left: 150px;
        font-size: 80px;
     }
     h3 {
-       margin-left: 200px;
+       margin-left: 160px;
        font-size: 25px;
     }
     .button {
-       margin-left: 170px;
+       margin-left: 130px;
     }
     .btn {
        font-size: 25px;
@@ -318,25 +318,29 @@ h3 {
      .one_sait {
         color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: 3px;
+        margin-left: -15px;
         font-size: 15px;
         padding-right: 80px;
         padding-left: 15px;
+        margin-top: 10px;
     }
     .two_sait {
         color: rgb(72, 71, 71);
         text-align: center;
-        margin-left: 3px;
+        margin-left: -10px;
         font-size: 15px;
         padding-right: 80px;
         padding-left: 15px;
+        margin-top: 10px;
     }
     .contacts {
-        margin-top: 100px;
-        margin-left: 30px;
+        margin-top: 80px;
+        margin-left: 110px;
+        font-size: 100px;
     }
     .telegram {
-        margin-left: 70px;
+        margin-left: 120px;
+        font-size: 30px;
     }
 }
 
@@ -405,6 +409,7 @@ h3 {
         font-size: 13px;
         padding-right: 28px;
         padding-left: 10px;
+        margin-top: 10px;
     }
     .two_sait {
         color: rgb(72, 71, 71);
@@ -413,5 +418,15 @@ h3 {
         font-size: 13px;
         padding-right: 28px;
         padding-left: 10px;
+        margin-top: 10px;
+    }
+    .contacts {
+        margin-top: 50px;
+        margin-left: 30px;
+        font-size: 70px;
+    }
+    .telegram {
+        margin-left: 40px;
+        font-size: 20px;
     }
 }
