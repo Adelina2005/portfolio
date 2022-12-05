@@ -188,8 +188,11 @@ h3 {
         padding-left: 20px;
     }
     .contacts {
-        margin-top: 400px;
+        margin-top: 100px;
         margin-left: 170px;
+    }
+    .telegram {
+        margin-left: 190px;
     }
 }
 
@@ -214,8 +217,8 @@ h3 {
        width: 180px;
     }
     .name {
-       margin-top: 400px;
-       margin-left: 70px;
+       margin-top: 500px;
+       margin-left: 60px;
     }
     .name-text{
         gap: 0px;
@@ -253,6 +256,13 @@ h3 {
         margin-left: 10px;
         font-size: 20px;
         padding-right: 100px;
+    }
+    .contacts {
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+    .telegram {
+        margin-left: 70px;
     }
 }
 
@@ -320,6 +330,13 @@ h3 {
         font-size: 15px;
         padding-right: 80px;
         padding-left: 15px;
+    }
+    .contacts {
+        margin-top: 100px;
+        margin-left: 30px;
+    }
+    .telegram {
+        margin-left: 70px;
     }
 }
 
